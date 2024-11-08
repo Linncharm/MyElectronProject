@@ -1,0 +1,21 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "A electron demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "type": "module",
+  "author": "Linn",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^33.2.0",
+    "electron-devtools-installer": "^3.2.0"
+  },
+  "dependencies": {
+    "electron": "^33.1.0",
+    "electron-devtools-installer": "^3.2.0"
+  },
+  "packageManager": "pnpm@9.12.3+sha512.cce0f9de9c5a7c95bef944169cc5dfe8741abfb145078c0d508b868056848a87c81e626246cb60967cbd7fd29a6c062ef73ff840d96b3c86c40ac92cf4a813ee"
+}
