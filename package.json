@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "type": "module",
+  "type": "commonjs",
   "author": "Linn",
   "license": "MIT",
   "devDependencies": {
